@@ -30,7 +30,7 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${app.runtime}</muleVersion>
 						<username>janesmith</username>
-						<password>P@ssword!</password>
+						<password>P@ssw0rd!</password>
 						<applicationName>muleproj</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
